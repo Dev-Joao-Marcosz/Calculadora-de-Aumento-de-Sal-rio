@@ -1,1 +1,1 @@
-# Calculadora-de-Aumento-de-Sal-rio
+# Calculadora-de-Aumento-de-Salario
